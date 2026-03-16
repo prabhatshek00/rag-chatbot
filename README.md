@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📄 PDF RAG Chatbot
 ### Ask questions about any PDF using AI — 100% Free
 
@@ -66,3 +67,7 @@ Your browser will open automatically at http://localhost:8501
 - **Rate limit error**: Wait 30 seconds (free HF tier has limits)
 - **Token error**: Make sure you copied the full token including `hf_`
 - **Blank answers**: Try rephrasing your question more specifically
+=======
+# rag-chatbot
+RAG-based PDF chatbot using LangChain, FAISS, HuggingFace, and Streamlit. Upload any PDF and ask questions — 100% free and open source.
+>>>>>>> 3eb188434f2e719c1dd1f2eb3b01da7bd1096219
