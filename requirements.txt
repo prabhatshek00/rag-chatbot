@@ -1,1 +1,8 @@
-404: Not Found
+streamlit
+pypdf
+langchain-text-splitters
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+huggingface-hub
