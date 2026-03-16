@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # 📄 PDF RAG Chatbot
 ### Ask questions about any PDF using AI — 100% Free
+## 🚀 Live Demo
+[Click here to try the app](https://your-streamlit-link.streamlit.app)
 
 Built with: Python · LangChain · FAISS · HuggingFace · Streamlit
 
